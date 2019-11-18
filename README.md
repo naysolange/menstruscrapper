@@ -18,9 +18,6 @@ Como ya mencionamos más arriba, uno de los objetivos de la campaña __#MenstruA
 
 A partir de esta pregunta, y de no encontrar información oficial al respecto, nos sumamos al __#OpenDataDay__ junto a [[LAS] de sistemas](https://twitter.com/lasdesistemas) con el objetivo de estimar el gasto que tendría que enfrentar una persona que menstrúa a lo largo de un año si utilizara toallitas o tampones, dado que son los productos de mayor circulación en nuestro país. En este proyecto se documenta la realización de dicho cálculo.
 
-## Cómo utilizar
-
-
 
 ## Fuentes
 
